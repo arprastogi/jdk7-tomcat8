@@ -18,5 +18,5 @@ Place the downloaded jdk file under 'jdk7-tomcat8' folder and execute below comm
 ````
 To run container execute below:
 ````
-docker run -d --rm -p 8888:8080 jdk7-tomcat8
+# docker run -d --rm -p 8888:8080 jdk7-tomcat8
 ````
